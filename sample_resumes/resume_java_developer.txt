@@ -1,0 +1,15 @@
+Ravi Verma
+Java Developer
+
+Profile
+Java developer with 5 years of experience building backend services with Spring Boot, REST APIs,
+and working with relational databases.
+
+Skills
+Java, Spring Boot, REST, Hibernate, MySQL, Maven, Git, Linux
+
+Experience
+Backend Developer at SoftApps - Built microservices, optimized queries, and maintained backend.
+
+Education
+BTech Computer Science

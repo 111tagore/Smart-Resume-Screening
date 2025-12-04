@@ -1,0 +1,15 @@
+Priya Patel
+Machine Learning Engineer
+
+Profile
+Machine learning engineer experienced in designing and deploying ML models, feature engineering,
+and model evaluation. Familiar with scikit-learn, TensorFlow, PyTorch.
+
+Skills
+Python, scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, ML algorithms, model deployment
+
+Experience
+ML Engineer at AI Labs - Built classification models for customer churn prediction and deployed them.
+
+Education
+MTech in Machine Learning

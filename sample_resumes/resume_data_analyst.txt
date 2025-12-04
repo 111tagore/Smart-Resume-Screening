@@ -1,0 +1,15 @@
+Jane Smith
+Data Analyst
+
+Profile
+Data analyst with 3 years of experience in data cleaning, exploratory analysis and visualization.
+Proficient in Python, SQL, Excel, Tableau and statistical analysis.
+
+Skills
+Python, Pandas, NumPy, SQL, Tableau, Excel, Machine Learning (basic), matplotlib
+
+Experience
+Data Analyst at Insights Co - Built dashboards, performed cohort analysis and A/B testing.
+
+Education
+BSc Statistics

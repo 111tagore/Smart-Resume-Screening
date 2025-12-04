@@ -1,0 +1,16 @@
+John Doe
+Python Developer
+
+Profile
+Experienced Python developer with 4 years of experience developing REST APIs, backend services
+and microservices. Strong in Flask, Django, SQL, PostgreSQL, MySQL, unit testing.
+
+Skills
+Python, Flask, Django, REST, SQL, Git, Docker, Linux, AWS, Pandas
+
+Experience
+Software Engineer at TechSoft - Built REST APIs with Flask, improved performance by 30%.
+Implemented data pipelines using Python and Pandas.
+
+Education
+BTech in Computer Science

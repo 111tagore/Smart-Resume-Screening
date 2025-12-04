@@ -1,0 +1,15 @@
+Alex Kumar
+Web Developer
+
+Profile
+Full stack web developer focusing on ReactJS frontend and Node/Flask backend. Skilled in responsive design,
+UI development, and RESTful APIs.
+
+Skills
+HTML, CSS, JavaScript, React, Redux, Node.js, Flask, MySQL, REST, Git
+
+Experience
+Frontend Developer at WebWorks - Created responsive React components, improved UX performance.
+
+Education
+BTech in Information Technology
